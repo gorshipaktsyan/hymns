@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/gorshipaktsyan/.android/build-cache/cad217b51683f3652e5a472cdc439563155a2786/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/gorshipaktsyan/hymns_arm/android/app/build/intermediates/pre-dexed/debug/classes_9bd83553ff7fb07094cfbedbc795706a46549739.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gorshipaktsyan/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/gorshipaktsyan/hymns_arm/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_974a5712c75e867b67b6123664db42731becd60c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gorshipaktsyan/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/gorshipaktsyan/hymns_arm/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_ff8c259012edc3b3d8fdcdbf5c9026dc6a46cac0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gorshipaktsyan/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/gorshipaktsyan/hymns_arm/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_f36f0261a3c73b21f1f13d9fdd400a99b60a1737.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gorshipaktsyan/.android/build-cache/19bd19b228f99b1b92e4e8df9df810935f0e6c57/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/gorshipaktsyan/hymns_arm/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_fc9f9e08e53f125a626d04d703f7efa2703d55bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gorshipaktsyan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/gorshipaktsyan/hymns_arm/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_4d75f3e2a620d74e0cd365559e31a0f6a759c70a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gorshipaktsyan/.android/build-cache/70d0a51df8325016a9b6132c4734188eb7b3565d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/gorshipaktsyan/hymns_arm/android/app/build/intermediates/pre-dexed/debug/classes_417e163c8df10ce50511e792a000b1112220e4f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gorshipaktsyan/.android/build-cache/19bd19b228f99b1b92e4e8df9df810935f0e6c57/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="610b957661a666d16b2cd4664c6bf4370226dfd2">
+        <dex dex="/Users/gorshipaktsyan/hymns_arm/android/app/build/intermediates/pre-dexed/debug/classes_534e4e804748b4c780f816a3ed0da3455e89fa8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gorshipaktsyan/hymns_arm/node_modules/react-native-sqlite-storage/src/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="616e762bc1c8edaede5898415efe33216d9d3a60">
+        <dex dex="/Users/gorshipaktsyan/hymns_arm/android/app/build/intermediates/pre-dexed/debug/classes_283bdf3010e1118f10bb7c42a769b70305979ac6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gorshipaktsyan/.android/build-cache/74d385e523bff1615333e9a297a4bc052a98e71e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/gorshipaktsyan/hymns_arm/android/app/build/intermediates/pre-dexed/debug/classes_e7b1351b1b97d5a26fc2e90f72276af0cc21a2c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gorshipaktsyan/hymns_arm/node_modules/react-native-vector-icons/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2cf527de8d0bd35d72088fafea02395ba4a9eec">
+        <dex dex="/Users/gorshipaktsyan/hymns_arm/android/app/build/intermediates/pre-dexed/debug/classes_3c08d17eb43abf6ce009e2a8e6370a13c6bf7f64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gorshipaktsyan/.android/build-cache/77e5b2b5d8c4d9d9fa8513919fe73f6a0d8458cd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/gorshipaktsyan/hymns_arm/android/app/build/intermediates/pre-dexed/debug/classes_f045f566dc67694c527796a69241e5267b7c6cc1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gorshipaktsyan/.gradle/caches/modules-2/files-2.1/org.nanohttpd/nanohttpd/2.2.0/73a02117620b6cc7683a1ed6ae24c2f36e2a715/nanohttpd-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="073a02117620b6cc7683a1ed6ae24c2f36e2a715">
+        <dex dex="/Users/gorshipaktsyan/hymns_arm/android/app/build/intermediates/pre-dexed/debug/nanohttpd-2.2.0_eb58a80fbb5d00f9316d523e32d2270e858c1677.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gorshipaktsyan/hymns_arm/node_modules/realm/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cdf8b87d285c7f8e91c820951d15005246db8ca6">
+        <dex dex="/Users/gorshipaktsyan/hymns_arm/android/app/build/intermediates/pre-dexed/debug/classes_e825da339ac9a7fc1e6ec20c978f5faeb52b551c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gorshipaktsyan/.android/build-cache/07e9dc63b6c1df47709aba7b82011e1a1ce07f66/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/gorshipaktsyan/hymns_arm/android/app/build/intermediates/pre-dexed/debug/classes_ffb6a8bc61ebcaec76661f3f7bdce3a55b3908ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gorshipaktsyan/.android/build-cache/b548cef70bb7ccd0a6f3d84e63abccbf5d8c2db2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/gorshipaktsyan/hymns_arm/android/app/build/intermediates/pre-dexed/debug/classes_22351bca0e84f64cf0b81e8d0ee1d5acfd0430f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gorshipaktsyan/.android/build-cache/d5eee7389fa9b97f0682a09cea1b36dc0cb12c9d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/gorshipaktsyan/hymns_arm/android/app/build/intermediates/pre-dexed/debug/classes_5c4681cf4670e873fbf1a2b09f5f5ca39169943e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gorshipaktsyan/.android/build-cache/77e5b2b5d8c4d9d9fa8513919fe73f6a0d8458cd/output/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/gorshipaktsyan/hymns_arm/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_94b3be75f34f629843f8f9275bc1ee2ef78a0aa1.jar" />
+    </item>
+
+</items>
