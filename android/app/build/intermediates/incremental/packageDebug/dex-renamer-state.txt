@@ -1,4 +1,0 @@
-#Fri Nov 03 21:41:35 AMT 2017
-base.0=/Users/gorshipaktsyan/hymns_arm/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
-renamed.0=classes.dex
-file.0=/Users/gorshipaktsyan/hymns_arm/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
