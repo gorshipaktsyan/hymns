@@ -1,5 +1,5 @@
 let SQLite = require('react-native-sqlite-storage');
-let db = SQLite.openDatabase({name: 'hymns.db', createFromLocation: 1});
+let db = SQLite.openDatabase({name: 'hymns.db', createFromLocation: '~hymns.db'});
 
 export default function getTitles() {
     const query = `SELECT * FROM titles`;

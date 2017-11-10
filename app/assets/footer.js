@@ -8,6 +8,8 @@ const footer =
             <br>
         </td>
     </tr>
+    </table>
+    </div>
     </body>
 </html>`;
 

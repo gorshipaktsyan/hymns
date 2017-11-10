@@ -43,6 +43,7 @@ export default class ControlPanel extends Component {
                             value={this.state.number}
                             keyboardType="numeric"
                             placeholder="search by number"
+                            underlineColorAndroid="transparent"
                         />
                     </View>
                     <View style={{justifyContent: 'center', alignItems: 'center', marginLeft: 10 }}>
@@ -61,6 +62,7 @@ export default class ControlPanel extends Component {
                             onChangeText={(searchString) => this.setState({searchString})}
                             value={this.state.searchString}
                             placeholder="search by string"
+                            underlineColorAndroid="transparent"
                         />
                     </View>
                     <View style={{justifyContent: 'center', alignItems: 'center', marginLeft: 10}}>

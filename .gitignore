@@ -2,3 +2,9 @@
 .gitignore
 .idea/
 hymns/
+__tests__/
+android/
+app/assets/images.png
+app/assets/test.html
+ios/
+node_modules/

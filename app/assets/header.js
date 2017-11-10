@@ -3,6 +3,7 @@ const header =
 `<!DOCTYPE html>
 <html>
     <head>
+    <meta charset="UTF-8">
         <style type="text/css">
             html, body {
                 width: 100%;

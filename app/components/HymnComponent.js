@@ -29,8 +29,9 @@ export default class HymnComponent extends Component {
                     backgroundColor="#5E8D48"
                     barStyle="light-content"
                 />
-                <WebView scalesPageToFit={false}
-                    source={{html: this.props.hymn}}
+                <WebView scalesPageToFit={true}
+                    //source={ require('./../assets/hymn.html') }
+                    source={{html: this.props.hymn, baseUrl: 'web/'}}
                 />
             </View>
         )
@@ -46,7 +47,7 @@ const styles = StyleSheet.create({
                 paddingTop: 0
             },
             android: {
-                paddingTop: 54
+                paddingTop: 0
             }
         })
     },

@@ -55,8 +55,13 @@ export default class SubTitlesComponent extends Component {
                             data={this.props.hymns}
                             renderItem={({item}) =>
                                 <TouchableOpacity style={styles.item} onPress={() => this.showHymn(item)}>
-                                    <View style={{ height:30, borderTopWidth: 1, marginLeft: 30}}>
-                                        <Text style={{color:'black'}}>{item["first_string"]}</Text>
+                                    <View style={{ borderTopWidth: 1, borderTopColor: '#DFCCC8', marginLeft: 30, flexDirection: 'row', paddingVertical: 5}}>
+                                        <View style={{ flex: 0.9 }}>
+                                            <Text style={{color:'black'}}>{item["first_string"]}</Text>
+                                        </View>
+                                        <View style={{ flex: 0.1, justifyContent: 'center', alignItems: 'center' }}>
+                                            <Text style={{}}>{item.number}</Text>
+                                        </View>
                                     </View>
                                 </TouchableOpacity>
                             }
